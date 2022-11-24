@@ -8,7 +8,7 @@ document.querySelector(".wrapper").style.cssText =
 document.body.appendChild(divWrapperFlex);
 
 
-//CARD	11
+//CARD	1
 
 const divCardTwitter = document.createElement('div');
 divCardTwitter.classList.add('card-twitter');
